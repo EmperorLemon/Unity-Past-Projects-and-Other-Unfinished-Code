@@ -4,11 +4,6 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
-/******************************************
-* This is dedicated to any gambling addicts
-* lol
-* ****************************************/
-
 public class Game : MonoBehaviour
 {
     public List<Card> deck;
